@@ -2,7 +2,7 @@
   "chapters": [
     {
       "name": "初入编程",
-      "sections": [{"name":""}]
+      "sections": []
     },
     {
       "name": "发号施令",
@@ -11,7 +11,7 @@
     {
       "name": "是不是",
       "sections": [{"name":"在哪", "anchor":""},
-      {"name":"不然", "anchor":"-2"}]
+      {"name":"不然", "anchor":"-1"}]
     },
     {
       "name": "重复",
