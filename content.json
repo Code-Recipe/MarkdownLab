@@ -10,8 +10,8 @@
     },
     {
       "name": "是不是",
-      "sections": [{"name":"在哪"},
-      {"name":"不然"}]
+      "sections": [{"name":"在哪", "anchor":""},
+      {"name":"不然", "anchor":"-2"}]
     },
     {
       "name": "重复",
