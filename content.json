@@ -1,17 +1,27 @@
 {
+  "name": "编程基础",
+  "desc": "这个零基础教程给初学编程者使用，主要介绍的是编程的理论知识概念，不管以后要学习计算机的哪个方面，什么编程语言，这个教程里面的知识都是需要掌握的。",
   "chapters": [
     {
       "name": "初入编程",
-      "sections": []
+      "content": "Chapter1.md",
+      "sections": [
+        {"name":"在哪", "anchor":""}
+      ]
     },
     {
       "name": "发号施令",
-      "sections": []
+      "content": "Chapter2.md",
+      "sections": [
+        {"name":"在哪", "anchor":""}
+      ]
     },
     {
       "name": "是不是",
-      "sections": [{"name":"在哪", "anchor":""},
-      {"name":"不然", "anchor":"-1"}]
+      "content": "Chapter3.md",
+      "sections": [
+        {"name":"在哪", "anchor":""}
+      ]
     },
     {
       "name": "重复",
