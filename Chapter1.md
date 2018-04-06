@@ -27,6 +27,15 @@
 ```
 参考 [条件块](#section)
 
-<lab lang="blocks" parameters="logic=false&math=false&loops=false&lists=false&color=false&variables=false&functions=false&text=false">练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn)查看。</lab>
+<lab lang="blocks" parameters="logic=false&math=false&loops=false&lists=false&color=false&variables=false&functions=false&text=false">
+  <notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn)查看。</notice>
+</lab>
 
-<lab lang="java">练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn)查看。</lab>
+<lab lang="java" parameters="filename=Hello.java">
+<notice>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn)查看。</notice>
+public class Hello {
+  public static void main(String[] args) {
+      System.out.println("Hello Java!");
+  }
+}
+</lab>
