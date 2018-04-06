@@ -1,3 +1,5 @@
+<notice>教程读者请不要直接阅读本文件，请移步至[程谱 coderecipe.cn](coderecipe.cn)学习完整教程。</notice>
+
 初入编程
 ======
 
@@ -25,5 +27,6 @@
 ```
 参考 [条件块](#section)
 
-<code>
-</code>
+<lab lang="blocks" logic=false math=false loops=false lists=false color=false variables=false functions=false text=false>练习环境在此无法显示，请移步至[程谱 coderecipe.cn](coderecipe.cn)查看。</lab>
+
+<lab lang="java">练习环境在此无法显示，请移步至[程谱 coderecipe.cn](coderecipe.cn)查看。</lab>
