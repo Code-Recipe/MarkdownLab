@@ -35,3 +35,5 @@ public class Hello {
   }
 }
 </lab>
+
+<cr type="hidden"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>Text</cr>
