@@ -6,7 +6,7 @@
   "tags": ["编程", "基础", "入门"],
   "chapters": [
     {
-      "name": "初入编程",
+      "name": "示例章节-初入编程",
       "content": "Chapter1/Chapter1.md",
       "sections": [
         {"name":"输入&输出"},
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name": "选择判断",
+      "name": "示例章节-选择判断",
       "content": "Chapter2/Chapter2.md",
       "sections": [
         {"name":"运行顺序"},
@@ -27,6 +27,14 @@
         {"name":"偷懒的计算机——最小化求值原理"},
         {"name":"不是的情况——“非”运算"},
         {"name":"小练习"}
+      ]
+    },
+    {
+      "name": "交互功能示例",
+      "content": "Chapter3/Chapter3.md",
+      "sections": [
+        {"name":"条件块"},
+        {"name":"其他条件块"}
       ]
     }
   ]
