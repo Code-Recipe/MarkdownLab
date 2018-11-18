@@ -49,3 +49,5 @@ public class Hello {
 <cr type="input" parameters="在这里输入你的回答"><notice>主观题功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice></cr>
 
 <cr type="hidden" parameters="点击查看答案和解析"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>这道题的重点是这样的，然后答案是这样。</cr>
+
+<cr type="choose" parameters='["A. 答案1", "B. 答案2", "C. 答案3", "D. 答案4", 0]'><notice>客观题功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice></cr>
