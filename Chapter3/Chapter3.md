@@ -46,7 +46,7 @@ public class Hello {
 主观题功能：
 
 请用一句话回答题目内容：
-<cr type="input" parameters="在这里输入你的回答"><notice>主观题功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice></cr>
+<cr type="input" parameters='["题目","在这里输入你的回答","点击查看解析","解析内容"]'><notice>主观题功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice></cr>
 
 <cr type="hidden" parameters="点击查看答案和解析"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>这道题的重点是这样的，然后答案是这样。</cr>
 
